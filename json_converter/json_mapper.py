@@ -1,5 +1,5 @@
 import copy
-from collections import Mapping
+from collections.abs import Mapping
 
 from .data_node import DataNode
 
